@@ -1,0 +1,9 @@
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\bin\Debug\Kısa-Uzun Kenar Hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\bin\Debug\Kısa-Uzun Kenar Hesaplama.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa-Uzun Kenar Hesaplama.csproj.AssemblyReference.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa_Uzun_Kenar_Hesaplama.Form1.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa_Uzun_Kenar_Hesaplama.Properties.Resources.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa-Uzun Kenar Hesaplama.csproj.GenerateResource.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa-Uzun Kenar Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa-Uzun Kenar Hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Kısa-Uzun Kenar Hesaplama\obj\Debug\Kısa-Uzun Kenar Hesaplama.pdb

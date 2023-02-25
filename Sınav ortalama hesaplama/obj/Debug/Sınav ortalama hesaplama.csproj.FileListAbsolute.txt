@@ -1,0 +1,8 @@
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\bin\Debug\Sınav ortalama hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\bin\Debug\Sınav ortalama hesaplama.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav_ortalama_hesaplama.Form1.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav_ortalama_hesaplama.Properties.Resources.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav ortalama hesaplama.csproj.GenerateResource.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav ortalama hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Sınav ortalama hesaplama\obj\Debug\Sınav ortalama hesaplama.pdb

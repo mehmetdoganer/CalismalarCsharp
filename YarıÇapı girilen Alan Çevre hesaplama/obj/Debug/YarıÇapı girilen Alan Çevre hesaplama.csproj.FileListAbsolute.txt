@@ -1,0 +1,8 @@
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\bin\Debug\YarıÇapı girilen Alan Çevre hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\bin\Debug\YarıÇapı girilen Alan Çevre hesaplama.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı_girilen_Alan_Çevre_hesaplama.Form1.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı_girilen_Alan_Çevre_hesaplama.Properties.Resources.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı girilen Alan Çevre hesaplama.csproj.GenerateResource.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı girilen Alan Çevre hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı girilen Alan Çevre hesaplama.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\YarıÇapı girilen Alan Çevre hesaplama\obj\Debug\YarıÇapı girilen Alan Çevre hesaplama.pdb

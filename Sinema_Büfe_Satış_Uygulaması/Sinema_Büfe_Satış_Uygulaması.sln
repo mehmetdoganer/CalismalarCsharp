@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema_Büfe_Satış_Uygulaması", "Sinema_Büfe_Satış_Uygulaması.csproj", "{178376E7-B4F1-4E15-BC62-AE12E40ECBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178376E7-B4F1-4E15-BC62-AE12E40ECBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178376E7-B4F1-4E15-BC62-AE12E40ECBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178376E7-B4F1-4E15-BC62-AE12E40ECBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178376E7-B4F1-4E15-BC62-AE12E40ECBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369EB98C-2CE4-45CA-B0E9-400E54779196}
+	EndGlobalSection
+EndGlobal
