@@ -1,0 +1,18 @@
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\bin\Debug\loginpanalioluşturma.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\bin\Debug\loginpanalioluşturma.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.AssemblyReference.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.Form1.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.Properties.Resources.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.GenerateResource.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.CoreCompileInputs.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\Udemy\loginpanalioluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\bin\Debug\loginpanalioluşturma.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\bin\Debug\loginpanalioluşturma.pdb
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.AssemblyReference.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.Form1.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.Properties.Resources.resources
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.GenerateResource.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.csproj.CoreCompileInputs.cache
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.exe
+C:\Users\siyah\OneDrive - Bartın Üniversitesi\Masaüstü\UdemyC#\Login Paneli Oluşturma\loginpanalioluşturma\obj\Debug\loginpanalioluşturma.pdb
